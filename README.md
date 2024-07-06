@@ -6,7 +6,7 @@ A summary of Livox-related SLAM-application: compiling and execution
 
 
 
-## ● Results: 
+## Videos: 
 ### Single-LiDAR
 + [`video1`](https://youtu.be/3d4WtK6S4Ms): LIO-SAM vs FAST-LIO2
 + [`video2`](https://youtu.be/NmT0o268OLM): FAST-LIO2 vs Livox-mapping vs LOAM-Livox using [`Livox Mid-70 LiDAR`](https://www.livoxtech.com/mid-70), real-world
@@ -69,10 +69,7 @@ sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-9 60 --slave /u
 ~~~
 
 
-
-
-
-## Installation
+## Compiling
 
 
 ### ● LiLi-OM
@@ -253,3 +250,4 @@ catkin_make
 
 ## How to run
 #### ● check each of config files and launch files in the folders of this repo
+
